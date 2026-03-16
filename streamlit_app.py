@@ -11,7 +11,7 @@ st.write("- [오늘의 메뉴]")
 
 st.subheader("기술 및 스킬")
 st.write("- [수학교육]")
-st.write("- [정보 전달]")
+st.write("- [정보 수집 및 전달]")
 
 st.subheader("연락처")
 st.write("이메일: [lsy8045@naver.com]")
